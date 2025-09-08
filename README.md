@@ -1,1 +1,1 @@
-My repository contains basuc JAVA codes for beginners.
+My repository contains basic JAVA codes for beginners.
